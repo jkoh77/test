@@ -1,0 +1,11 @@
+.svn/
+bin/
+target/
+*.java._trace
+*.pyc
+.DS_Store
+*.tmp
+*.di
+*.uml
+*.notation
+devon.studio.prefs
